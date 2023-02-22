@@ -1,0 +1,24 @@
+{
+  "name": "@huodeming/wx_uni_request",
+  "version": "1.0.0",
+  "description": "基于 Promise 的小程序网路请求库",
+  "main": "dist/index.js",
+  "miniprogram": "dist",
+  "scripts": {},
+  "keywords": [
+    "request",
+    "wx",
+    "weixin",
+	"uniapp",
+	"uni"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:huodeming/wx_uni_request.git"
+  },
+  "bugs": {
+    "url": "https://github.com/huodeming/wx_uni_request/issues"
+  },
+  "author": "huodeming",
+  "license": "MIT"
+}
